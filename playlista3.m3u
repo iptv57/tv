@@ -1,0 +1,333 @@
+#EXTM3U
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40474.png",TVP
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257416&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40473.png",TVP 1
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257415&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40472.png",TVP 2
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257414&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40470.png",TV4
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257412&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40468.png",TV6
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257411&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40467.png",POLONIA 1
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257410&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40466.png",POLSAT
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257409&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40465.png",POLSAT 2
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257408&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40464.png",SUPER POLSAT
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257407&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40463.png",TVN
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257406&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40462.png",TVN 7
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257405&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40461.png",TVS
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257404&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40460.png",TTV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257403&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40458.png",PULS 2
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257401&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40456.png",POLSAT RODZINA
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257400&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40455.png",TV OKAZJE
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257399&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/48684.png",TVP POLONIA
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257398&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/50360.png",TELE 5
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257397&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40452.png",CANAL+ PREMIUM
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257394&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40451.png",CANAL+ 1
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257393&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40450.png",CANAL+ FILM
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257392&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40449.png",CANAL+ 360
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257391&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40448.png",FILMBOX PREMIUM
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257390&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40447.png",FILMBOX EXTRA
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257389&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40446.png",FILMBOX ACTION
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257388&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40445.png",FILMBOX FAMILY
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257387&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40444.png",FILMBOX ARTHOUSE
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257386&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40443.png",CINEMAX
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257385&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40442.png",CINEMAX 2
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257384&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40441.png",HBO
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257383&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40440.png",HBO2
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257382&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40439.png",HBO3
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257381&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40438.png",PARAMOUNT CHANNEL
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257380&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40437.png",ALE KINO+
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257379&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40436.png",POLSAT FILM
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257378&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40435.png",KINO POLSKA
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257377&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40434.png",KINO TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257376&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40433.png",STOPKLATKA TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257375&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40430.png",CANAL+ NOW
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257368&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40429.png",CANAL+ SERIALE
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257367&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40428.png",FX
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257366&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40426.png",FX COMEDY
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257365&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40424.png",AMC
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257363&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40423.png",WP
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257362&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40422.png",AXN
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257361&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40421.png",AXN
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257360&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40420.png",AXN WHITE
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257359&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40419.png",AXN BLACK
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257358&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40418.png",AXN SPIN
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257357&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40417.png",SCIFI
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257356&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40416.png",13 ULICA
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257355&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40415.png",EPIC DRAMA
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257354&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40414.png",COMEDY CENTRAL
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257353&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40413.png",E! ENTERTAINMENT
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257352&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40412.png",TVP SERIALE
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257351&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/50357.png",POLSAT SERIALE
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257350&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40411.png",POLSAT CAFE
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257349&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40410.png",POLSAT PLAY
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257348&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/50355.png",POLSAT COMEDY CENTRAL EXTRA
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257347&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40409.png",METRO
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257346&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40407.png",CBS REALITY
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257345&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40405.png",ROMANCE TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257344&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40404.png",NOVELA TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257343&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/50352.png",NOVELAS+
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257342&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40403.png",ACTIVE FAMILY
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257341&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40402.png",SUNDANCE
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257340&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40401.png",TVN FABULA
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257339&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40399.png",BBC FIRST
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257338&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40398.png",BBC BRIT
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257337&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40397.png",BBC LIFESTYLE
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257336&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40396.png",TVN STYLE
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257335&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40395.png",LIFETIME
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257334&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/50349.png",HOME TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257333&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40394.png",HGTV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257332&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40393.png",RED CARPET TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257331&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40390.png",CBS EUROPA
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257329&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40389.png",ZOOM TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257328&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40388.png",NOWA TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257327&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40386.png",CANAL+ SPORT
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257325&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40385.png",CANAL+ SPORT 2
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257324&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40384.png",CANAL+ SPORT 3
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257323&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40383.png",CANAL+ SPORT 4
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257322&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CANAL%2B_Sport_5.png/300px-CANAL%2B_Sport_5.png",CANAL+ SPORT 5
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=364246&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40380.png",POLSAT SPORT EXTRA
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257320&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40378.png",POLSAT SPORT PREMIUM 1
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257318&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40377.png",POLSAT SPORT PREMIUM 2
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257317&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40372.png",ELEVEN SPORTS 1
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257311&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40371.png",ELEVEN SPORTS 2
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257310&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40370.png",ELEVEN SPORTS 3
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257309&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40369.png",ELEVEN SPORTS 4
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257308&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40368.png",SPORTKLUB
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257307&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40367.png",TVP SPORT
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257306&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40366.png",EUROSPORT 1
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257305&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40365.png",EUROSPORT 2
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257304&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40364.png",EXTREME SPORTS
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257303&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40363.png",MOTOWIZJA
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257302&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40362.png",TVN TURBO
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257301&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40361.png",POLSAT SPORT
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257300&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/50358.png",POLSAT SPORT FIGHT
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257299&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40360.png",FIGHTBOX
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257298&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40359.png",FIGHTKLUB
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257297&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40358.png",GOLF CHANNEL
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257296&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/50356.png",PLANETE+
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257294&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40356.png",NATIONAL GEO
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257293&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40355.png",NATIONAL GEO
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257292&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40354.png",NATIONAL GEOGRAPHIC WILD
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257291&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40353.png",NATIONAL GEOGRAPHIC WILD
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257290&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40352.png",NAT GEO PEOPLE
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257289&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40351.png",ADVENTURE
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257288&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40350.png",CANAL+ DOKUMENT
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257287&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40349.png",DISCOVERY
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257286&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40348.png",DISCOVERY LIFE
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257285&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40347.png",DISCOVERY SCIENCE
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257284&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40345.png",DISCOVERY HISTORIA
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257283&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/50354.png",CRIME+INVESTIGATION
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257282&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40342.png",POLSAT DOKU
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257278&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40341.png",POLSAT VIASAT HISTORY
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257277&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40340.png",POLSAT VIASAT NATURE
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257276&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40339.png",POLSAT VIASAT EXPLORE
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257275&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40338.png",TLC
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257274&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40337.png",TRAVEL CHANNEL
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257273&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40336.png",ANIMAL PLANET
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257272&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40335.png",HISTORY
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257271&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40334.png",HISTORY 2
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257270&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/50350.png",TVP DOKUMENT
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257269&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40332.png",TVP KULTURA
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257267&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40327.png",FOOD NETWORK
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257264&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40324.png",BBC EARTH
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257263&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40322.png",POWER TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257261&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40321.png",FOKUS TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257260&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/50359.png",STUDIOMED TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257258&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40317.png",MTV POLSKA
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257255&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40315.png",VOX MUSIC TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257253&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40313.png",TVP ROZRYWKA
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257252&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40312.png",POLSAT MUSIC
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257251&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40311.png",ESKAROCK TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257250&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40309.png",NUTA TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257249&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40308.png",KINO POLSKA MUZYKA
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257248&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40305.png",DISCO POLO MUSIC
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257245&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40304.png",POLO TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257244&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40303.png",ESKA TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257243&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40302.png",ESKA TV EXTRA
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257242&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40301.png",4FUN.TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257241&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40299.png",4FUN DANCE
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257239&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40298.png",STARS.TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257238&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40295.png",DISNEY XD
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257235&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40294.png",DISNEY JUNIOR
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257234&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40293.png",CARTOON NETWORK
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257233&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40292.png",NICKTOONS
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257232&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40290.png",NICK JR
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257230&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40289.png",BOOMERANG
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257229&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40288.png",TVP ABC
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257228&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40287.png",POLSAT JIM JAM
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257227&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40286.png",BABY TV
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257226&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40284.png",TELETOON+
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257225&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40283.png",MINIMINI+
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257224&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40282.png",POLSAT GAMES
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257223&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/50353.png",BBC CBEEBIES
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257222&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40280.png",TVP INFO
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257220&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40279.png",TVN 24
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257219&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40278.png",TVN 24 BIS
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257218&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40277.png",POLSAT NEWS
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257217&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40276.png",POLSAT NEWS 2
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257216&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/50351.png",BIZNES24
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257215&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40274.png",TV REPUBLIKA
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257213&extension=m3u8
+#EXTINF:-1 group-title="ⓣⓥ" tvg-logo="https://logoipro2.com/logo/40273.png",WPOLSCE 24
+http://pro3show.xyz:80/play/live.php?mac=00:1A:79:C8:73:03&stream=257212&extension=m3u8
